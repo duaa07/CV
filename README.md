@@ -4,7 +4,7 @@ This repository contains the latest version of my resume.
 
 ### **Latest Version**
 
-* **[DuaaResume.pdf](https://github.com/duaa07/CV/blob/main/DuaaResume.pdf)**: (Updated Aug, 2025) - Download the most recent version here.
+* **[DuaaResume.pdf](https://github.com/duaa07/CV/blob/main/DuaaResume.pdf)**: (Updated Aug, 2026) - Download the most recent version here.
 
 ### **About**
 
